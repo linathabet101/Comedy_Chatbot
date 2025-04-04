@@ -1,0 +1,7 @@
+transformers
+torch
+streamlit
+python-dotenv
+requests
+SpeechRecognition
+pyttsx3

@@ -1,0 +1,28 @@
+2025-03-24 21:25:59,906 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Lina\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-03-24 21:25:59,906 - INFO - Using writeable comtypes cache directory: 'C:\Users\Lina\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-03-24 21:26:00,082 - INFO - VoiceComedicApp initialized with backend URL: http://localhost:8000
+2025-03-24 21:26:00,082 - INFO - Streamlit app started
+2025-03-24 21:26:10,859 - INFO - VoiceComedicApp initialized with backend URL: http://localhost:8000
+2025-03-24 21:26:10,859 - INFO - Streamlit app started
+2025-03-24 21:26:10,861 - INFO - User input via text: i slipped on a banana peel
+2025-03-24 21:26:10,862 - INFO - Sending request to backend with situation: i slipped on a banana peel
+2025-03-24 21:26:14,667 - INFO - Received response from backend: "Well, it looks like I just took a big step backward... literally! I mean, who needs a gym membership when you've got a banana peel on the floor? Now I'm not saying I'm a smooth operator, but I just became the only person to ever 'peel' off a slip and fall!"
+2025-03-24 21:27:44,285 - INFO - VoiceComedicApp initialized with backend URL: http://localhost:8000
+2025-03-24 21:27:44,285 - INFO - Streamlit app started
+2025-03-24 21:27:50,881 - INFO - VoiceComedicApp initialized with backend URL: http://localhost:8000
+2025-03-24 21:27:50,881 - INFO - Streamlit app started
+2025-03-24 21:28:02,895 - INFO - VoiceComedicApp initialized with backend URL: http://localhost:8000
+2025-03-24 21:28:02,895 - INFO - Streamlit app started
+2025-03-24 21:28:07,163 - INFO - VoiceComedicApp initialized with backend URL: http://localhost:8000
+2025-03-24 21:28:07,163 - INFO - Streamlit app started
+2025-03-24 21:28:10,488 - INFO - VoiceComedicApp initialized with backend URL: http://localhost:8000
+2025-03-24 21:28:10,488 - INFO - Streamlit app started
+2025-03-24 21:28:21,511 - INFO - VoiceComedicApp initialized with backend URL: http://localhost:8000
+2025-03-24 21:28:21,511 - INFO - Streamlit app started
+2025-03-24 21:28:26,231 - INFO - VoiceComedicApp initialized with backend URL: http://localhost:8000
+2025-03-24 21:28:26,231 - INFO - Streamlit app started
+2025-03-24 21:37:37,582 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Lina\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-03-24 21:37:37,582 - INFO - Using writeable comtypes cache directory: 'C:\Users\Lina\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-03-24 21:37:37,708 - INFO - VoiceComedicApp initialized with backend URL: http://localhost:8000
+2025-03-24 21:37:45,380 - INFO - VoiceComedicApp initialized with backend URL: http://localhost:8000
+2025-03-24 21:37:48,080 - INFO - VoiceComedicApp initialized with backend URL: http://localhost:8000
